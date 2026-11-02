@@ -1,0 +1,4 @@
+# 内容：Paseo 中继（需固定香港出口，勿走直连）
+# 维护：小小鱼 2026-11-02；新增域名直接在本文件追加一行 DOMAIN,xxx
+DOMAIN,relay.paseo.sh
+DOMAIN,relay-next.paseo.sh
